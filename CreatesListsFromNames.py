@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 20 17:18:01 2019
 
-@author: ROHAN
+@author: Antarpuneet
 """
 l=[]
 with open('new.txt','r') as f:
